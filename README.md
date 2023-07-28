@@ -7,6 +7,8 @@ A thrilling fan-made mini-game inspired by the likes of Five Nights at Freddy's
 WINDOW USERS Manual
 
       ***TO PLAY THE GAME, directly run the "LaunchGame.jar" file
+      ***Note: 
+          Install Java Runtime Environment (JRE): To run .jar files, you need to have Java installed on your computer. You can download and install the JRE                   from the official Oracle Java website: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
