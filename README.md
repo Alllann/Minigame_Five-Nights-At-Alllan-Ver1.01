@@ -6,13 +6,13 @@ A thrilling fan-made mini-game inspired by the likes of Five Nights at Freddy's
 
 WINDOW USERS Manual
 
-      TO PLAY THE GAME, directly run the "LaunchGame.jar" file
+      ***TO PLAY THE GAME, directly run the "LaunchGame.jar" file
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MacOS Users Manual
 
-      To play the game, use the Terminal application
+      ***TO PLAY THE GAME, use the Terminal application, by following the steps below:
 
       a. Open Terminal: Launch the Terminal application on your macOS by going to "Applications" > "Utilities" > "Terminal".
 
