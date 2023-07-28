@@ -1,7 +1,11 @@
 # Minigame_Five-Nights-At-Alllan
 A thrilling fan-made mini-game inspired by the likes of Five Nights at Freddy's
 
+
+WINDOW USERS
 TO PLAY THE GAME, directly run the "LaunchGame.jar" file
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***For other languages, check the Readme folder
 
